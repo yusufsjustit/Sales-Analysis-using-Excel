@@ -63,5 +63,3 @@ The sales dataset includes the following columns:
 ## ✅ Outcome
 This project shows how I can turn raw sales data into actionable insights using Excel’s analytical tools. It demonstrates my skills in **formulas, referencing, conditional logic, pivot analysis, and dashboard creation**.  
 
-[Link to My Dashboard](https://public.tableau.com/views/EMSIDashboard_17562212262760/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Link to MyDashboard](https://app.powerbi.com/view?r=eyJrIjoiYWI2OWNmOGQtZDdkNi00YWNmLWFlMGUtYjgzNzcyZjZhYjEzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
